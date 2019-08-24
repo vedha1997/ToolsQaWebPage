@@ -1,0 +1,26 @@
+2019-08-24 05:02:16,479  INFO [main] LogReports:21 - Passed : The cart and the selected products are equal: Actual data : BLACK LUX GRAPHIC T-SHIRT - BLACK Expected :BLACK LUX GRAPHIC T-SHIRT - BLACK
+2019-08-24 05:42:49,977  INFO [main] LogReports:21 - Passed : The cart and the selected products are equal: Actual data : BLACK LUX GRAPHIC T-SHIRT - BLACK Expected :BLACK LUX GRAPHIC T-SHIRT - BLACK
+2019-08-24 05:45:30,940  INFO [main] LogReports:21 - Passed : The cart and the selected products are equal: Actual data : BLACK LUX GRAPHIC T-SHIRT - BLACK Expected :BLACK LUX GRAPHIC T-SHIRT - BLACK
+2019-08-24 06:30:49,674  INFO [main] LogReports:21 - Passed : The cart and the selected products are equal: Actual data : BLACK LUX GRAPHIC T-SHIRT - BLACK Expected :BLACK LUX GRAPHIC T-SHIRT - BLACK
+2019-08-24 06:52:55,433  INFO [main] LogReports:21 - Passed : The cart and the selected products are equal: Actual data : BLACK LUX GRAPHIC T-SHIRT - BLACK Expected :BLACK LUX GRAPHIC T-SHIRT - BLACK
+2019-08-24 06:59:30,758  INFO [main] LogReports:21 - Passed : The cart and the selected products are equal: Actual data : BLACK LUX GRAPHIC T-SHIRT - BLACK Expected :BLACK LUX GRAPHIC T-SHIRT - BLACK
+2019-08-24 07:04:56,587  INFO [main] LogReports:21 - Passed : The cart and the selected products are equal: Actual data : BLACK LUX GRAPHIC T-SHIRT - BLACK Expected :BLACK LUX GRAPHIC T-SHIRT - BLACK
+2019-08-24 07:08:07,468  INFO [main] LogReports:21 - Passed : The cart and the selected products are equal: Actual data : BLACK LUX GRAPHIC T-SHIRT - BLACK Expected :BLACK LUX GRAPHIC T-SHIRT - BLACK
+2019-08-24 07:13:38,936  INFO [main] LogReports:21 - Passed : The cart and the selected products are equal: Actual data : BLACK LUX GRAPHIC T-SHIRT - BLACK Expected :BLACK LUX GRAPHIC T-SHIRT - BLACK
+2019-08-24 07:27:14,920  INFO [main] LogReports:21 - Passed : The cart and the selected products are equal: Actual data : BLACK LUX GRAPHIC T-SHIRT - BLACK Expected :BLACK LUX GRAPHIC T-SHIRT - BLACK
+2019-08-24 07:37:07,248  INFO [main] LogReports:21 - Passed : The cart and the selected products are equal: Actual data : BLACK LUX GRAPHIC T-SHIRT - BLACK Expected :BLACK LUX GRAPHIC T-SHIRT - BLACK
+2019-08-24 08:36:10,055  INFO [main] LogReports:21 - popup verfied
+2019-08-24 08:36:24,774  INFO [main] LogReports:21 - PINK DROP SHOULDER OVERSIZED T SHIRT - is added to cart
+2019-08-24 08:36:43,979  INFO [main] LogReports:21 - BLACK LUX GRAPHIC T-SHIRT - BLACK - is added to cart
+2019-08-24 08:36:48,252  INFO [main] LogReports:21 - The assertion passed - The product selected and added in the cart are same
+2019-08-24 08:36:48,254  INFO [main] LogReports:21 - Passed : The cart and the selected products are equal: Actual data : BLACK LUX GRAPHIC T-SHIRT - BLACK Expected :BLACK LUX GRAPHIC T-SHIRT - BLACK
+2019-08-24 08:36:48,255  INFO [main] LogReports:21 - The assertion passed - The product selected and added in the cart are same
+2019-08-24 08:36:48,453  INFO [main] LogReports:21 - ?15.00
+2019-08-24 08:36:48,499  INFO [main] LogReports:21 - 15.0
+2019-08-24 08:36:48,698  INFO [main] LogReports:21 - ?18.00
+2019-08-24 08:36:48,700  INFO [main] LogReports:21 - 18.0
+2019-08-24 08:36:48,926  INFO [main] LogReports:21 - ?33.00
+2019-08-24 08:36:48,928  INFO [main] LogReports:21 - 33.0
+2019-08-24 08:36:48,929  INFO [main] LogReports:21 - The price verified
+2019-08-24 08:36:51,295  INFO [main] LogReports:21 - 18.0
+2019-08-24 08:36:51,296  INFO [main] LogReports:21 - The grand total is equal after removing the cart

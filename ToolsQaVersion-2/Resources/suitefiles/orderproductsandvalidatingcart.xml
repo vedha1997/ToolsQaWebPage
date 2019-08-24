@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+
+<suite name="adding product and validating grand total">
+
+
+	
+	<test name="validating the Grandtotal">
+
+
+		
+		<classes>
+
+			<class
+				name="com.toolsqa.testscripts.OrderProductsAndValidatingCart" />
+
+		</classes>
+
+	</test>
+
+</suite>

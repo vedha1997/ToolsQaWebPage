@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.toolsqa.ToolsQaVersion_2.SearchProduct">
+        <methods>
+          <include name="removeItemFromCart"/>
+          <include name="verifyGrandTotal"/>
+          <include name="intitailizeBrowser"/>
+          <include name="validateProductsInCart"/>
+          <include name="searchproducts"/>
+        </methods>
+      </class> <!-- com.toolsqa.ToolsQaVersion_2.SearchProduct -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
